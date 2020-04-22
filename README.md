@@ -10,6 +10,7 @@
 ### Option 2 - download cleaned data [RECOMMENDED]
 * Download the cleaned Amazon dataset from: https://drive.google.com/open?id=1FZRi7vqQ0a2B7qXUd-f8cBWN2ObTzK6m [314MB]
 * Download the cleaned Steam dataset from: https://drive.google.com/open?id=1JIAaOocsdo4ZkIERzM0lhxuidjY0lSp8 [284MB]
+* Place all the data in the `data/` directory.
 
 
 ## Training Pipeline
