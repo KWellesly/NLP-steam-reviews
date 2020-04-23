@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 data/steam_reviews.csv
+models/*.pt
+data/*
+glove.6B.100d.txt.word2vec
