@@ -1,4 +1,5 @@
 # NLP-steam-reviews
+See the following unpublished paper for more details: https://drive.google.com/file/d/1NoYUsH6ZOzJ3c488O52w0Yyg57c3pPAr/view?usp=sharing
 
 ## Setup
 
